@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS-PC/Desktop/Pulse_Generator/simulation/qsim
+vDFF_counter
+Z1 !s110 1567092168
+!i10b 1
+!s100 fMcz5Cij[l5JMaI[o[:EC3
+I[H?T0VA]GA1WjK^LhdU8C1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1567092167
+Z3 8Pulse_Generator.vo
+Z4 FPulse_Generator.vo
+Z5 L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1567092168.000000
+Z8 !s107 Pulse_Generator.vo|
+Z9 !s90 -work|work|Pulse_Generator.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@d@f@f_counter
+vDFF_counter_vlg_vec_tst
+R1
+!i10b 1
+!s100 nPH;aJM^d?<H2:<K3=Mc^0
+I_^_^V2>@`PfVHIIoYfzML1
+R2
+R0
+w1567092164
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+Z12 L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11
+n@d@f@f_counter_vlg_vec_tst
+vhard_block
+Z13 !s110 1567098469
+!i10b 1
+!s100 2;mf9oY[0X]M`EZfTW_W_2
+I:35PY8kbRfg^8JlXN?73M0
+R2
+R0
+Z14 w1567098469
+R3
+R4
+L0 309
+R6
+r1
+!s85 0
+31
+Z15 !s108 1567098469.000000
+R8
+R9
+!i113 1
+R10
+R11
+vPulse_Generator
+R13
+!i10b 1
+!s100 K=o;V7181QiWAaJ46a6W`3
+IEOfFLh=hKMYfYbK0FdPne1
+R2
+R0
+R14
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R15
+R8
+R9
+!i113 1
+R10
+R11
+n@pulse_@generator
+vPulse_Generator_vlg_vec_tst
+!s110 1567098470
+!i10b 1
+!s100 GIO799>6S:9=G_fj`9[af3
+I[2`]<UC^P:Fkl`:MHIWk33
+R2
+R0
+w1567098468
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+!s108 1567098470.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@pulse_@generator_vlg_vec_tst

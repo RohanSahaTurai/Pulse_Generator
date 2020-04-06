@@ -1,0 +1,6 @@
+|Pulse_Generator
+Pulse <= inst15.DB_MAX_OUTPUT_PORT_TYPE
+Clk => inst15.IN0
+Trigger => inst10.CLK
+
+
